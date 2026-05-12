@@ -6,12 +6,12 @@ Siga os passos abaixo para executar o projeto em sua máquina:
 2.  **Instalar o Expo CLI:** Não é necessário instalar globalmente, usaremos via `npx`.
 3.  **Clonar ou baixar os arquivos:** Tenha os arquivos do projeto em uma pasta.
 4.  **Instalar dependências:** No terminal, dentro da pasta do projeto, execute:
-   <br>
+   
     ```bash
     npm install
     ```
 6.  **Iniciar o projeto:** Execute o comando:
-    <br>
+   
     ```bash
     npx expo start
     ```
