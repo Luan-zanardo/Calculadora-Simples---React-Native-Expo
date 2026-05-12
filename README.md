@@ -1,7 +1,3 @@
-# Calculadora Simples - React Native Expo
-
-Este projeto é uma calculadora básica desenvolvida com React Native e Expo, utilizando a biblioteca React Native Paper para os componentes de interface. O foco deste projeto é a simplicidade e a facilidade de entendimento para iniciantes.
-
 ## 🚀 Como Rodar o Projeto
 
 Siga os passos abaixo para executar o projeto em sua máquina:
